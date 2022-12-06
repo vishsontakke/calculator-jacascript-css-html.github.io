@@ -1,0 +1,40 @@
+input[class="button"]{
+    color:black;
+    border: solid yellow;
+     height: 50px; 
+     width: 50px;
+}
+
+input[class="operator"]{
+    color:black;
+    background-color: rgb(0, 128, 107);
+    border: solid yellow;
+     height: 50px; 
+     width: 50px;
+}
+
+input[value="="]{
+    color:black;
+    background-color:red;
+    border: solid yellow;
+     height: 50px; 
+     width: 50px;
+}
+
+input[type="text"]{
+    color:black;
+    background-color:gainsboro;
+    
+    height: 33px; 
+    padding-top: 0px;
+    
+}
+
+input[value="Clear"]{
+    color:black;
+    background-color:aqua;
+    width: 45px;
+    height: 30px;
+    
+    
+}
